@@ -1,0 +1,520 @@
+@title JOHN DEERE: CASE STUDY
+
+<img src = "image_1.jpg">
+
+<my_button>
+[START]
+</my_button>
+
+[START]:
+
+<center><font size="7" face="Laconic">
+BRIEFING 
+<br></font>
+
+<font size="6">**T**</font>hings are heating up so quickly here at John Deere. As one of the biggest agricultural, construction, and forestry machinery manufacturers, the company needs your expertise, as a skilled business consultant, in making some critical decisions. Remember! Each and every decision has an impact (and consequences) on the company’s performance…Good luck!
+</center>
+
+<my_button>
+[OK]
+</my_button>
+
+[OK]:
+
+<center><font size="7" face="Laconic" align = "center">
+FRIDAY 
+<br>
+</font></center>
+
+<img src = "image_2.jpg">
+
+<p align="justify">
+<font size="6">**Y**</font>ou are standing in your office when you see Kelly, the new assigned business transformation manager here at John Deere, knocking on the door. "Come in!" You say with a smile, greeting her as she gets inside. "Sorry for bothering you so early in the morning..." Kelly says as she approaches your desk. "Don't worry about it! Please, have a seat!" You say while pointing to the chair for Kelly. "Thanks for agreeing to meet me without an advance notice!" She says while grabbing the seat and sitting slowly. “Don’t worry, so what is bothering you?" You ask her after taking a sip of your warm coffee. "As you know, Deere is considering how to introduce its new bulldozer, the JD 750, a machine substantially larger than any it had previously built..." You nod as she continues.. “In addition, decisions have to be made on the even bigger JD 850 launching next year.." She says nervously with a trembling voice. “Oh! That’s huge..." You feel surprised and then continue to say...
+</p>
+
+
+<my_button>
+[[No! I don’t think the company should do that]]
+</my_button>
+
+<my_button>
+[[We definitely need to analyse this]]
+</my_button>
+
+[[No! I don’t think the company should do that]]:
+
+<img src = "image_01.jpg">
+
+<p align="justify">
+“Really? Why??” Kelly asks surprisingly. “Well, I don’t really think we need this here in John Deere.” You calmly explain and continue to say “We are having a descent market share at the moment and we don’t need to explore new markets since the industry looks stable.” Kelly listens as you make your point but doesn’t look convinced. She hesitates for a second and then asks “Umm…Are you sure?” You smile and assure her “Yes, don’t worry about it. Our current machines are doing well in the market and that is more than enough.” “OK! I will cancel the plans then and will keep you informed about how it goes.” She says while leaving the office. “Sure, have a nice weekend!” You say as she leaves. You turn off your pc and prepare to leave the office. This is going to be a long weekend…
+</p>
+
+<my_button>
+[[Exit the office]]
+</my_button>
+
+[[Exit the office]]:
+
+<center><font size="7" face="Laconic" align = "center">
+MONDAY 
+<br>
+</font></center>
+
+<img src = "image_13.png">
+
+<p align="justify">
+You feel excited as you head back to the office after a refreshing weekend. As you enter the office, you notice an unread email. You open it and start reading:
+“We cancelled all our plans for the JD 750 and JD 850 as per your recommendations. However, another company called Terex is launching a similar machine to the JD 750. The initial signs look so promising for them with a prediction of eating most of our market share. I am not sure that was the right decision to make without analyzing the market first…
+Anyway, thanks for your help!
+Kelly”
+You close the email and start thinking about what you read. Maybe this was not the best decision after all.
+</p>
+
+<a href="#" style="text-decoration: none;">
+<my_button>
+TRY AGAIN!
+</my_button>
+</a>
+
+[[We definitely need to analyse this]]:
+
+<p align="justify">
+“Well, let me give you a brief background about the company…” Kelly says as she takes a deep breath “Deere had begun by manufacturing farm equipment (which still account for the majority of the business) where we had developed an outstanding reputation for reliability and engineering excellence.” You nod as she continues “In the early 1960s, we had diversified into bulldozers concentrating on smaller machines, first with the JD 350 (42 horse power), then adding the JD 450 (65 hp) and most recently the JD 550 (72 hp)…” You listen carefully and then interfere…
+</p>
+
+<img src = "image_3.jpg">
+
+<my_button>
+[[What information do we have about the market?]]
+</my_button>
+
+<my_button>
+[[We should follow the same footsteps and launch the 2 models]]
+</my_button>
+
+[[We should follow the same footsteps and launch the 2 models]]:
+
+<img src = "image_01.jpg">
+
+<p align="justify">
+“You mean we should use the same marketing strategy we use for other machines to promote the JD 750 and JD 850?” Kelly asks. “Exactly!” You respond confidently and continue to say “We have done a good job promoting different machines, so we should follow the same strategy for our new machines.” Kelly scribbles your comments on her notebook and says “Okay, will try to get things started as soon as possible since we are in the process of launching The JD 750.” She takes a deep breath and says “I will keep you informed about how it goes.” She stands up and departs the office. “Sure, have a nice weekend!” You say as she leaves. You turn off your pc and prepare to leave the office. This is going to be a long weekend…
+</p>
+
+<my_button>
+[[Exit the building]]
+</my_button>
+
+[[Exit the building]]:
+
+<center><font size="7" face="Laconic" align = "center">
+MONDAY 
+<br>
+</font></center>
+
+<img src = "image_13.png">
+
+<p align="justify">
+You feel excited as you head back to the office after a refreshing weekend. As you enter the office, you notice an unread email. You open it and start reading:
+“We followed your recommendations and used the same marketing strategy for our new machines. However, the initial indicators seem not so good as our strategy fitted well with clients purchasing small machines but not large ones as the JD 750. I guess this new model needed a different marketing mix based on deep analysis of the targeted market.
+Anyway, thanks for your help!
+Kelly”
+You close the email and start thinking about what you read. Maybe this was not the best decision after all.
+</p>
+
+<my_button>
+TRY AGAIN!
+</my_button>
+
+[[What information do we have about the market?]]:
+
+<p align="justify">
+“Well…” Kelly smiles as she continues “By the late 1970s we were the market leader in North America for under 100 hp machines with a market share of around 60%.” Kelly looks a bit worried as she explains “The JD 750 (110 hp) is our first big machine and, at around $60,000 (excluding extras), would be nearly twice the price of the 550. The new bulldozer is bringing it for the first time into direct competition with Caterpillar's big machines. As you know CAT's dominant market share (45% world-wide) and reputation in this sector made it almost the generic name for large bulldozers.” You remain silent for a while and then proceed…
+</p>
+
+<img src = "image_4.jpg">
+
+<my_button>
+[[We need more data about the competitors]]
+</my_button>
+
+<my_button>
+[[We should Attack the market by a low price penetration strategy]]
+</my_button>
+
+[[We should Attack the market by a low price penetration strategy]]:
+
+<img src = "image_01.jpg">
+
+<p align="justify">
+“You think we should provide a cheaper price than own main competitor CAT?” Kelly wonders. “Yes, since they have been dominant in the large bulldozer industry then we should follow a cost leadership strategy and try to beat them by providing a much lower price.” You explain as Kelly listens before saying “Well, this way we can actually attract more clients if they are really sensitive to price.” You nod your head agreeing with what she said. "Okay, will talk to the executives and try to get things started as soon as possible since we are in the process of launching The JD 750.” She takes a deep breath and says “I will keep you informed about how it goes.” She stands up and departs the office. “Sure, have a nice weekend!” You say as she leaves. You turn off your pc and prepare to leave the office. This is going to be a long weekend…
+</p>
+
+<my_button>
+[[Leave the building]]
+</my_button>
+
+[[Leave the building]]:
+
+<center><font size="7" face="Laconic" align = "center">
+MONDAY 
+<br>
+</font></center>
+
+<img src = "image_13.png">
+
+<p align="justify">
+You feel excited as you head back to the office after a refreshing weekend. As you enter the office, you notice an unread email. You open it and start reading:
+“We followed your recommendations and priced the JD 750 at $40,000 close to the JD 550 and much cheaper than CAT's $60,000. We have already generated some revenues from multiple sales. However, the new machine was not well received by some large bulldozer clients as expected as they were hesitant to switch to ours given the low price that did not reflect our technical superiority. I guess pricing it a little higher would have gained their confidence and even generated more sales…
+Anyway, thanks for your help!
+Kelly”
+You close the email and start thinking about what you read. Maybe this was not the best decision after all.
+</p>
+
+<my_button>
+TRY AGAIN!
+</my_button>
+
+
+[[We need more data about the competitors]]:
+
+<p align="justify">
+“I was expecting that…” Kelly says as she shows you some data on her tablet and discusses it “The bulldozer market in North America was around 17,500 units or $840m. Competition was increasingly tough. Besides CAT, major competitors included International Harvester, Case, Fiat-Allis, Terex (a division of General Motors) and Komatsu. Komatsu’s strategy involved copying Caterpillar designs but then bringing them up to the existing state of the art and offering lower prices. The industry was marked by continuous progress in technical innovation.” You feel impressed by Kelly’s preparations and say…
+</p>
+
+<img src = "image_5.jpg">
+
+<my_button>
+[[We have to match the CAT price]](match cat price)
+</my_button>
+
+<my_button>
+[[How is the market segmented?]]
+</my_button>
+
+[[match cat price]]:
+
+<img src = "image_01.jpg">
+
+<p align="justify">
+“Well, CAT’s D5 is currently sold at $60,000. Do you think we shall stay within this range?” Kelly asks. “I believe since they are making good profits out of this price and the customers are willing to pay it, then we should match it. This way we won’t undervalue our machine and at the same time don’t risk a higher price that what the current market is used to” You explain as Kelly takes some notes. “This sounds reasonable” She says. really sensitive to price.” You nod your head agreeing with what she said. “Okay, I will try to get things started as soon as possible since we are in the process of launching The JD 750.” She takes a deep breath and says “I will keep you informed about how it goes.” She stands up and departs the office. “Sure, have a nice weekend!” You say as she leaves. You turn off your pc and prepare to leave the office. This is going to be a long weekend…
+</p>
+
+<my_button>
+[[Depart the building]]
+</my_button>
+
+[[Depart the building]]:
+
+<center><font size="7" face="Laconic" align = "center">
+MONDAY 
+<br>
+</font></center>
+
+<img src = "image_13.png">
+
+<p align="justify">
+You feel excited as you head back to the office after a refreshing weekend. As you enter the office, you notice an unread email. You open it and start reading:
+“We followed your recommendations and priced the JD 750 at $60,500 close to CAT’s D5. We have already generated some descent revenues from multiple sales. However, the initial indicators seem to show that we are not going to achieve our targets since most of the customers will hesitate to switch to ours since they are already familiar with CAT machines and our price did not reflect our technical superiority or differences from CAT's offering. I guess pricing it much higher would have gained their confidence and even generated more sales…
+Anyway, thanks for your help!
+Kelly”
+You close the email and start thinking about what you read. Maybe this was not the best decision after all.
+</p>
+
+<my_button>
+TRY AGAIN!
+</my_button>
+
+
+[[How is the market segmented?]]:
+
+<img src = "image_6.jpg">
+
+<p align="justify">
+“I did some research about this and this is what I found” Kelly says as she scrolls through the data and continues “The bulldozer market is divided into the small (under 100 hp) and large (100 - 200 hp) sectors. The former was dominated by us in the US (total company turnover $3,000m, pre-tax profit $1 55m); CAT had 60% of the latter (turnover $5,000m, profit $653m). Both sectors were about equal in unit terms but the larger sector was twice as big in $ value. The small sector, however, now exhibited faster growth as fewer very large projects (such as the interstate road system and the Alaska pipeline) were occurring in North America. One result might be that large contractors 'would become involved in smaller projects and extend their mix of equipment.” Kelly stops as you keep staring at the data and then finally say…
+</p>
+
+<my_button>
+[[I need to know more about different CAT machines]]
+</my_button>
+
+<my_button>
+[[I don’t think CAT is our main concern]]
+</my_button>
+
+[[I don’t think CAT is our main concern]]:
+
+<img src = "image_01.jpg">
+
+<p align="justify">
+“Really??” Kelly asks drawing a completely surprised expression on her face. “Let me explain!” You calm her down and then continue “We have already established a descent market share, and the company already has a powerful reputation to rely on…” You take a deep breath and resume “Our clients, especially the loyal ones will love the new model since it is more powerful. So I don’t think focusing on CAT’s offering is worth it.” Kelly listens to what you say and then interrupt “So you think we don’t have to work on differentiating our offering from CAT’s??” She asks. “Not for the time being. I think we are safe to go relying on our huge customer base.” You explain. “Hmmm, Fine! I will try to get things started as soon as possible since we are in the process of launching The JD 750.” She takes a deep breath and says “I will keep you informed about how it goes.” She stands up and departs the office. “Sure, have a nice weekend!” You say as she leaves. You turn off your pc and prepare to leave the office. This is going to be a long weekend…
+</p>
+
+<my_button>
+[[Leave the room]]
+</my_button>
+
+[[Leave the room]]:
+
+<center><font size="7" face="Laconic" align = "center">
+MONDAY 
+<br>
+</font></center>
+
+<img src = "image_13.png">
+
+<p align="justify">
+You feel excited as you head back to the office after a refreshing weekend. As you enter the office, you notice an unread email. You open it and start reading:
+“We followed your recommendations and neglected CAT’s offering. We have already generated some descent revenues from some few sales. However, the initial indicators seem to show that we are not going to achieve any of our targets since most of our customers are small machinery clients and not the large machinery ones that we should have targeted. CAT’s domination in that area is going to make it hard, if not impossible, for us to have a sustainable share in it…
+Anyway, thanks for your help!
+Kelly”
+You close the email and start thinking about what you read. Maybe this was not the best decision after all.
+</p>
+
+<my_button>
+TRY AGAIN!
+</my_button>
+
+[[I need to know more about different CAT machines]]:
+
+<img src = "image_7.jpg">
+
+<p align="justify">
+Kelly scrolls through her data and then explains “In 1979 CAT surprised the industry by launching the D3, a 62 hp machine manufactured in Japan as a joint venture with Mitsubishi. The D3 had not, according to industry sources, been very successful. Some people thought it was because CAT dealers were already prosperous and orientated towards larger units. Other CAT machines were the D4 (85 hp), D5 (105 hp), D6 (140 hp) and the new versions of the D7, D8 and D9, the largest bulldozers in its line. The oldest designs were the D5 and D6 which were said to be the 'bread and butter' of the CAT line because of the unit volumes involved. CAT had 122 independent dealers with 219 outlets; the dealers' sales ranged from $12m to $70m. By contrast, we had 433 dealers with 437 outlets with dealer turnover in the $1 m to $16m range.” You finish your coffee and then say…
+</p>
+
+<my_button>
+[[We should sell to our same loyal clients]]
+</my_button>
+
+<my_button>
+[[How are clients segmented based on machine size?]]
+</my_button>
+
+[[We should sell to our same loyal clients]]:
+
+<img src = "image_01.jpg">
+
+<p align="justify">
+“You mean we should focus on the same clients that purchase the JD 550??” Kelly wonders. “Absolutely! Those clients trust us and we have established some good working relations with them.” You explain as Kelly takes some notes and then asks “So we should not market the JD 750 for larger clients?” You pause for a while and the respond “ No! not for the time being. We shall capitalize on our loyal customer base first. At least in the introductory phase.” Kelly takes a deep breath hearing that and then says “Okay, I will talk to the executives and try to get things started as soon as possible since we are in the process of launching The JD 750. I will keep you informed about how it goes.” She stands up and departs the office. “Sure, have a nice weekend!” You say as she leaves. You turn off your pc and prepare to leave the office. This is going to be a long weekend…
+</p>
+
+<my_button>
+[[Leave]]
+</my_button>
+
+[[Leave]]:
+
+<center><font size="7" face="Laconic" align = "center">
+MONDAY 
+<br>
+</font></center>
+
+<img src = "image_13.png">
+
+<p align="justify">
+You feel excited as you head back to the office after a refreshing weekend. As you enter the office, you notice an unread email. You open it and start reading:
+“We followed your recommendations and targeted our current customer base. We have already generated few revenues from some sales. However, the initial indicators seem to show that we are not going to achieve any of our targets since most of our customers are small machinery clients and not the large machinery ones that we should have targeted. CAT’s domination in that area is going to make it hard, if not impossible, for us to have a sustainable share in it. Especially due to the fact that those clients require a different marketing mix than that of those we are currently targeting due to different purchasing power, usage and demand…
+Anyway, thanks for your help!
+Kelly”
+You close the email and start thinking about what you read. Maybe this was not the best decision after all.
+</p>
+
+<my_button>
+TRY AGAIN!
+</my_button>
+
+[[How are clients segmented based on machine size?]]:
+
+<img src = "image_8.jpg">
+
+<p align="justify">
+“Buyers of smaller machines were typically small contractors who used them for general building and utility purposes. Often they were an owner/operator who purchased on the basis of personal attitudes and experience. Price was important and they looked to the local dealer for servicing the machine.” Kelly says as you revise the data and ask her “What about larger contractors?” Kelly pause for a second and then respond “The larger units were purchased by large contractors who specialised in major construction projects (highways, dams, airports, etc.) usually in remote, rural areas. The large contractor moved equipment from one area to another and often owned its own repair and maintenance facility, relying on the dealer to provide parts within a maximum 24 hours. Purchasers of larger machines were typically very sophisticated and kept detailed records of productivity (tons moved per hour or per $) and reliability. Parts and machine reliability were crucial since, unlike the smaller bulldozers, these were used intensively (up to 24 hours per day). Replacement parts represented 30% of the sales and 50% of the CAT dealer's profit.” You feel relieved and say…
+</p>
+
+<my_button>
+[[We should follow a similar marketing strategy to CAT to get large contractors]](match cat price)
+</my_button>
+
+<my_button>
+[[We should differentiate ourselves from CAT]]
+</my_button>
+
+[[We should differentiate ourselves from CAT]]:
+
+<p align="justify">
+“Actually we have built a good reputation in our market.” Kelly smiles as she continues “Our machines are highly regarded and our distribution network is seen as second only to Caterpillar. While CAT stressed reliability and parts availability, Our strategy have been built on providing superior customer benefits via innovation and technical improvement. Each of our new machines have been introduced with features new to the market.” You interrupt Kelly as you ask “What about the JD 750?” She takes a deep breath and explains “Well, the JD 750 followed this strategy being the first with fully automatic dual path hydrostatic drive. This eliminated the need for the operator to change gear in operation and significantly improved manoeuvrability and control over speed and power. Independent experts had found that the JD 750 surpassed the productivity of the D5 by 10% - 15% and matched the D6.” You smile as you hear this information and say…
+</p>
+
+<img src = "image_9.jpg">
+
+<my_button>
+[[We should benefit from the first mover advantage]]
+</my_button>
+
+<my_button>
+[[We should try the JD 750 first and postpone the JD 850 for now]]
+</my_button>
+
+[[We should try the JD 750 first and postpone the JD 850 for now]]:
+
+<img src = "image_01.jpg">
+
+<p align="justify">
+“So we should focus all our efforts on launching the JD 750 for now and stop all efforts regarding the JD 850??” Kelly asks. “For the time being yes. We need to be a little bit cautious and calculate the risks carefully for the JD 850. This way we would be able to test the market first with the JD 750 and if it shows to be promising, then we should launch the JD 850” You explain as Kelly looks pleased to hear that. “Fair enough” She says and then continues “I will talk to the executives and try to get things started as soon as possible. I will keep you informed about how it goes.” She stands up and departs the office. “Sure, have a nice weekend!” You say as she leaves. You turn off your pc and prepare to leave the office. This is going to be a long weekend…
+</p>
+
+<my_button>
+[[Exit]]
+</my_button>
+
+[[Exit]]:
+
+<center><font size="7" face="Laconic" align = "center">
+MONDAY 
+<br>
+</font></center>
+
+<img src = "image_13.png">
+
+<p align="justify">
+You feel excited as you head back to the office after a refreshing weekend. As you enter the office, you notice an unread email. You open it and start reading:
+“We followed your recommendations, launched the JD 750 and postponed the JD 850 for now. Our initial indicators are so promising as we have already generated a huge amount of sales. The executives really appreciated your efforts as this seem to be a game changer for us. However, some insights indicate that Terex are copying our JD 750 and will try to launch it as soon as possible. Although this will not affect our sales for the JD 750 since we seem to be the market leader now, it may affect future sales for 850 as we won’t be able to launch it soon since we postponed all our efforts in favor of the JD 750…
+Anyway, thanks for your help!
+Kelly”
+You close the email and start thinking about what you read. This was a good decision, but maybe its long-term implications are not as good as its short-term ones.
+</p>
+
+<my_button>
+TRY AGAIN!
+</my_button>
+
+[[We should benefit from the first mover advantage]]:
+
+<p align="justify">
+“Well, that’s why we need to launch soon” Kelly explains as she continues to say “We have invested $16m over 10 years to develop the JD 750 and 850, a further $50m had gone on tools and equipment. The direct costs of the JD 750 were around $35,000. Both undercarriage parts and the hydro- static drives were bought in. Suppliers were not limited to selling only to us and we had little patent protection. Terex was known to be testing a bulldozer with a hydrostatic transmission but our engineers estimated that it would take CAT five years to engineer and tool for hydrostatic transmission. Because we bought non-exclusive parts, our dealers faced strong competition in the after market. CAT, on the other hand, changed its parts frequently to make it difficult for them to be copied.” You listen carefully and then say…
+</p>
+
+<img src = "image_10.jpg">
+
+<my_button>
+[[We should charge a premium price based on costs incurred]]
+</my_button>
+
+<my_button>
+[[We should consider service charges as well]]
+</my_button>
+
+[[We should charge a premium price based on costs incurred]]:
+
+<img src = "image_01.jpg">
+
+<p align="justify">
+“You think we should focus on the machine price and charge a premium for the one time purchase?” Kelly questions you. “Yes! We should try to maximize our profits relative to the costs incurred for each machine.” You explain. “Fair enough” She says and then continues “I will talk to the executives and try to get things started as soon as possible. I will keep you informed about how it goes.” She stands up and departs the office. “Sure, have a nice weekend!” You say as she leaves. You turn off your pc and prepare to leave the office. This is going to be a long weekend…
+</p>
+
+<my_button>
+[[Go home]]
+</my_button>
+
+[[Go home]]:
+
+<center><font size="7" face="Laconic" align = "center">
+MONDAY 
+<br>
+</font></center>
+
+<img src = "image_13.png">
+
+<p align="justify">
+You feel excited as you head back to the office after a refreshing weekend. As you enter the office, you notice an unread email. You open it and start reading:
+“We followed your recommendations, launched the JD 750 at a $75,000. Our initial indicators are so promising as we have already generated a huge amount of sales due to our differentiation strategy and targeting large contractors. The executives really appreciated your efforts as this seem to be a game changer for us. However, I think we should have thought about after sale service charges since they contribute to huge amount of sales and we are not making any profit out of them at the moment. I think this definetly a missed opportunity…
+Anyway, thanks for your help!
+Kelly”
+You close the email and start thinking about what you read. This was a good decision, but maybe its long-term implications are not as good as its short-term ones.
+</p>
+
+<my_button>
+TRY AGAIN!
+</my_button>
+
+[[We should consider service charges as well]]:
+
+<p align="justify">
+"That is an important aspect as you know that our executives' most difficult problem is determining what price to charge.” Kelly illustrates “CAT's D5 sold at $60,000 basic. This was, of course, only part of the cost to the buyer. The stress and tough working conditions for the larger machines meant that on average over a life of 10,000 operating hours, a bulldozer used parts and service equivalent to 90% of its purchase price and fuel equivalent to 5%.” She pauses for a second and asks “So what do you think we should do?”
+</p>
+
+<img src = "image_11.jpg">
+
+<my_button>
+[[We should charge a premium price by promoting our technical superiority and services excellence]]
+</my_button>
+
+<my_button>
+[[We should charge a premium price internationally and match CAT’s price locally]]
+</my_button>
+
+[[We should charge a premium price internationally and match CAT’s price locally]]:
+
+<img src = "image_01.jpg">
+
+<p align="justify">
+“Oh! You think we should not exceed CAT’s price locally?” Kelly wonders. “No, I think it would be tough to beat them in their own game. So it is less risky to just match their price at least locally and maybe exceed it globally.” You explain. “Okay, I will talk to the executives and try to get things started as soon as possible since we are in the process of launching The JD 750. I will keep you informed about how it goes.” She stands up and departs the office. “Sure, have a nice weekend!” You say as she leaves. You turn off your pc and prepare to leave the office. This is going to be a long weekend…
+</p>
+
+<my_button>
+[[Get out]]
+</my_button>
+
+[[Get out]]:
+
+<center><font size="7" face="Laconic" align = "center">
+MONDAY 
+<br>
+</font></center>
+
+<img src = "image_13.png">
+
+<p align="justify">
+You feel excited as you head back to the office after a refreshing weekend. As you enter the office, you notice an unread email. You open it and start reading:
+“We followed your recommendations and priced the JD 750 at $60,500 close to CAT’s D5 and at $80,000 globally. We have already generated some descent revenues from multiple sales. However, the initial indicators seem to show that we are not going to achieve our targets since most of the customers will hesitate to switch to ours since they are already familiar with CAT machines and our price did not reflect our technical superiority or differences. Internationally we are not so well either as it was the case before. Some global clients were even irritated by the huge price differences. I guess pricing it higher at least locally would have gained our clients’ confidence and even generated more sales…
+Anyway, thanks for your help!
+Kelly”
+You close the email and start thinking about what you read. Maybe this was not the best decision after all.
+</p>
+
+<my_button>
+TRY AGAIN!
+</my_button>
+
+[[We should charge a premium price by promoting our technical superiority and services excellence]]:
+
+<img src = "image_12.jpg">
+
+<p align="justify">
+“Fantastic! I will start implementing your recommendations as soon as I get approval from our executives.” Kelly says as she start packing her things. “Don’t worry! We will do our best here.” You respond. “Great! I will keep you informed.” She says while leaving the office. “Sure, have a nice weekend!” You say as she leaves. You turn off your pc and prepare to leave the office. This is going to be a long weekend.
+</p>
+
+<my_button>
+[[Leave the office!]]
+</my_button>
+
+[[Leave the office!]]:
+
+<center><font size="7" face="Laconic" align = "center">
+MONDAY 
+<br>
+</font></center>
+
+<img src = "image_13.png">
+
+<p align="justify">
+You feel excited as you head back to the office after a refreshing weekend. As you enter the office, you notice an unread email. You open it and start reading:
+“We got the approval for implementing your fast mover strategy. Things are going pretty well. Our initial indicators are very promising, predicting huge market shares and even the possibility of dominating it with the JD 850 as we were able to completely differentiate ourselves from the competition and charge premium prices by promoting our technical excellence and utilizing outstanding services as well…
+Thanks for your help!
+Kelly”
+You close the email and start thinking about what you read. This is a huge step for the company since this can be a game changer.
+</p>
+
+<my_button>
+Well Done!
+</my_button>
