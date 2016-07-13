@@ -74,3 +74,8 @@ my_button {
 	font-size:100%; color:yellow; font-family:Laconic; text-align:center;
 	border-radius: 10px;
 }
+
+@font-face {
+  font-family: 'Laconic';
+  src: url('Laconic_Regular.otf?') format('opentype');
+}
